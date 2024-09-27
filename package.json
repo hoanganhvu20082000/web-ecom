@@ -1,5 +1,5 @@
 {
-  "homepage": "http://phyohtetarkar.github.io/react-ecommerce-template/",
+  "homepage": "https://vu-hoang.github.io/web-ecom/",
   "name": "react-ecommerce-template",
   "version": "1.0.0",
   "private": true,
@@ -26,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
   },
   "eslintConfig": {
     "extends": [
@@ -51,6 +51,6 @@
     "@types/react": "^17.0.8",
     "@types/react-dom": "^17.0.5",
     "babel-preset-react-app": "^10.0.1",
-    "gh-pages": "^3.2.0"
+    "gh-pages": "^3.2.3"
   }
 }
